@@ -6,7 +6,7 @@ googleAnalytics = "UA-88635038-1"
 hasCJKLanguage = true
 
 [taxonomies]
- tag = "tags"
+  tag = "tags"
 
 [params]
   dateformat = "Jan 2, 2006"
@@ -19,7 +19,8 @@ hasCJKLanguage = true
   thumbnail = "images/author.png"
   name = "ミサ"
   description = "<p>このブログについてと詳しいプロフィールは<a href='/about'>こちら</a>。</p>"
-  twitter = "https://twitter.com/zzzmisa"
+  twitter = "https://twitter.com/zzzmisa/"
+  github = "https://github.com/zzzmisa/"
   mail = "https://docs.google.com/forms/d/e/1FAIpQLSdmZDfWbJXaHeG3EDmlgfXZXdfZw15Ot0gFwtpNbs3yIhTuJA/viewform"
 
 [outputs]
