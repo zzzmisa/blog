@@ -18,7 +18,7 @@ hasCJKLanguage = true
 [params.author]
   thumbnail = "images/author.png"
   name = "ミサ"
-  description = "<p>このブログについてと詳しいプロフィールは<a href='/about'>こちら</a>。</p>"
+  description = "<p><a href='/privacy/'>このブログについて</a> / <a href='/privacy/'>プライバシーポリシー</a></p>"
   twitter = "https://twitter.com/zzzmisa/"
   github = "https://github.com/zzzmisa/"
   mail = "https://docs.google.com/forms/d/e/1FAIpQLSdmZDfWbJXaHeG3EDmlgfXZXdfZw15Ot0gFwtpNbs3yIhTuJA/viewform"
