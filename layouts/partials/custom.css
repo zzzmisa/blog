@@ -1,0 +1,3 @@
+.thumb-eye-catch-maker {
+  background-image: url({{ $.Site.BaseURL }}images/eye_catch_maker1.png);
+}
