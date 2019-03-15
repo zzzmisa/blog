@@ -1,3 +1,11 @@
+article.lism .thumb {
+  width: 7.5rem;
+}
+
 .thumb-eye-catch-maker {
   background-image: url({{ $.Site.BaseURL }}images/eye_catch_maker1.png);
+}
+
+.thumb-curryjack {
+  background-image: url({{ $.Site.BaseURL }}images/curryjack1.jpg);
 }
