@@ -1,6 +1,8 @@
 baseurl = "https://blog.zzzmisa.com/"
 title = "zzzmisa's blog"
 languageCode = "ja-JP"
+publishDir = "docs"
+theme = "hugo_theme_robust"
 
 googleAnalytics = "UA-88635038-1"
 hasCJKLanguage = true
