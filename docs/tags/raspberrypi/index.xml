@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raspberrypi on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/raspberrypi/</link>
+    <description>Recent content in raspberrypi on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Raspberry Pi用学習リモコン基板ADRSIRとAlexaでスマートホーム</title>
+      <link>https://blog.zzzmisa.com/adrsir/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/adrsir/</guid>
+      <description>この記事はおうちハック Advent Calendar 2018の24日目です。メリークリスマス！！ Raspberry Pi用の学習リモコン基板とAlexaでスマートホームにチャレンジしま</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Piで固定IPアドレス</title>
+      <link>https://blog.zzzmisa.com/raspberrypi_ipaddress/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/raspberrypi_ipaddress/</guid>
+      <description>環境 Raspberry Pi 3（以下ラズパイ） # Raspbianのバージョン確認 $ lsb_release -a No LSB modules are available. Distributor ID: Raspbian Description: Raspbian GNU/Linux 8.0 (jessie) Release: 8.0 Codename: jessie AirStation WSR-2533DHP2（以下エアステ</description>
+    </item>
+    
+  </channel>
+</rss>

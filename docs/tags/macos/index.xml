@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macos on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/macos/</link>
+    <description>Recent content in macos on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>brew linkappsのdeprecated対応</title>
+      <link>https://blog.zzzmisa.com/brew-linkapps-deprecated/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/brew-linkapps-deprecated/</guid>
+      <description>brew linkapps は、/Applications フォルダにシンボリックリンクを貼るコマンドですが、いつの間にか deprecated の Warning がでるようになりました。 $ brew linkapps macvim Warning: `brew linkapps`</description>
+    </item>
+    
+    <item>
+      <title>新しいMacのセットアップ</title>
+      <link>https://blog.zzzmisa.com/setup-mac/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/setup-mac/</guid>
+      <description>新しいMacを買ったのでセットアップ内容のメモです。 構成管理ツールで管理しようかとも思ったけど、そんなホイホイ買い換えないないし、自分用にメ</description>
+    </item>
+    
+    <item>
+      <title>xcrun: error: invalid active developer path</title>
+      <link>https://blog.zzzmisa.com/invalid-active-developer-path/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/invalid-active-developer-path/</guid>
+      <description>macOS Sierra から High Sierra にアップデートしたところ、gitが以下のエラーになって使えなくなってしまいました。 $ git status xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun 検索したところ、X</description>
+    </item>
+    
+  </channel>
+</rss>

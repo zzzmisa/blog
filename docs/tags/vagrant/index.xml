@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vagrant on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/vagrant/</link>
+    <description>Recent content in vagrant on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 24 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/vagrant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vagrantで複数台の仮想マシンを立ち上げてsshアクセス</title>
+      <link>https://blog.zzzmisa.com/vagrant-multi-machine/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/vagrant-multi-machine/</guid>
+      <description>Vagrantで複数台の仮想マシンを立ち上げて、それぞれにsshアクセスできるようにするまでの方法です。 Vagrantのインストールと使い方</description>
+    </item>
+    
+    <item>
+      <title>Vagrantのインストールと使い方</title>
+      <link>https://blog.zzzmisa.com/vagrant/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/vagrant/</guid>
+      <description>環境 macOS Sierra 10.12.6 VagrantとVirtualBoxのインストール VagrantはVagrantの公式サイト、VirtualBoxはVirtual</description>
+    </item>
+    
+  </channel>
+</rss>

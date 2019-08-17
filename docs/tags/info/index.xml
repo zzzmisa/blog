@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>info on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/info/</link>
+    <description>Recent content in info on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>免責事項</title>
+      <link>https://blog.zzzmisa.com/notice/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/notice/</guid>
+      <description>zzzmisa.com、及びサブドメインで公開しているサイト（以下「当サイト」）は、利用者ご自身の責任においてご利用いただきます。また、以下</description>
+    </item>
+    
+    <item>
+      <title>プライバシーポリシー</title>
+      <link>https://blog.zzzmisa.com/privacy/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/privacy/</guid>
+      <description>zzzmisa.com、及びサブドメインで公開しているサイト（以下「当サイト」）は、ユーザーの個人情報を本プライバシーポリシーに基づき取り扱</description>
+    </item>
+    
+    <item>
+      <title>このブログについて</title>
+      <link>https://blog.zzzmisa.com/about/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/about/</guid>
+      <description>ブログというものを試してみたくて作ったブログです。 アウトプットしたいことがある時に記事を書きます。 投稿内容は私個人の意見であり所属する企業の</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>childcare on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/childcare/</link>
+    <description>Recent content in childcare on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/childcare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>夫婦同時に7ヶ月の育休を取った感想</title>
+      <link>https://blog.zzzmisa.com/childcare_leave/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/childcare_leave/</guid>
+      <description>夫婦同時に約7ヶ月の育休を取りました（ただし保育園に入れなければさらに延長）。 現在、育休開始から約4ヶ月が過ぎ、折り返し地点にいるところです</description>
+    </item>
+    
+    <item>
+      <title>ミキハウスプレママセミナーに行ってきた</title>
+      <link>https://blog.zzzmisa.com/mikihouse_seminar/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/mikihouse_seminar/</guid>
+      <description>6月にミキハウスの「プレママ・プレパパセミナー in グランフロント大阪」へ行ってきました。 ブログに載せてもOKとのことだったので、勉強したことを</description>
+    </item>
+    
+  </channel>
+</rss>

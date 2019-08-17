@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>advent-calendar on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/advent-calendar/</link>
+    <description>Recent content in advent-calendar on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/advent-calendar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>個人開発 ❤ Vue.jsとBulmaでアイキャッチメーカーをリニューアル</title>
+      <link>https://blog.zzzmisa.com/featured-image-maker/</link>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/featured-image-maker/</guid>
+      <description>今更ですが、Vue.js Advent Calendar 2018の24日目が空いていたので埋めてみました。 これで3回連続アドベントカレンダーの24日目をゲットです！メリ</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Piで固定IPアドレス</title>
+      <link>https://blog.zzzmisa.com/raspberrypi_ipaddress/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/raspberrypi_ipaddress/</guid>
+      <description>環境 Raspberry Pi 3（以下ラズパイ） # Raspbianのバージョン確認 $ lsb_release -a No LSB modules are available. Distributor ID: Raspbian Description: Raspbian GNU/Linux 8.0 (jessie) Release: 8.0 Codename: jessie AirStation WSR-2533DHP2（以下エアステ</description>
+    </item>
+    
+    <item>
+      <title>アイキャッチ作成ツールをHTML&#43;CSS&#43;JSで作った</title>
+      <link>https://blog.zzzmisa.com/eye_catch_maker/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/eye_catch_maker/</guid>
+      <description>この記事はCSS Advent Calendar 2017の24日目です。メリークリスマス！！ アイキャッチ作成ツールをHTML+CSS+JSで作りました。 デモはこちら。ソ</description>
+    </item>
+    
+    <item>
+      <title>大阪へのJターン転職活動</title>
+      <link>https://blog.zzzmisa.com/job_hunting/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/job_hunting/</guid>
+      <description>この記事は転職 Advent Calendar 2016 16日目です。 書くこと 東京から大阪にJターンしたので、転職活動がどれくらい大変だったか書きます。 ほんの一例ですが、UIJ</description>
+    </item>
+    
+  </channel>
+</rss>

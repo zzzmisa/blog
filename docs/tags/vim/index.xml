@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vim on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/vim/</link>
+    <description>Recent content in vim on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>brew linkappsのdeprecated対応</title>
+      <link>https://blog.zzzmisa.com/brew-linkapps-deprecated/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/brew-linkapps-deprecated/</guid>
+      <description>brew linkapps は、/Applications フォルダにシンボリックリンクを貼るコマンドですが、いつの間にか deprecated の Warning がでるようになりました。 $ brew linkapps macvim Warning: `brew linkapps`</description>
+    </item>
+    
+    <item>
+      <title>Dein.vimの導入</title>
+      <link>https://blog.zzzmisa.com/dein_vim/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/dein_vim/</guid>
+      <description>vimのプラグインマネージャDein.vimの導入メモです。 NeoBundleからの乗り換えです。 Dein.vimインストール 素直にread</description>
+    </item>
+    
+    <item>
+      <title>PrevimでMarkdownのプレビュー</title>
+      <link>https://blog.zzzmisa.com/previm/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/previm/</guid>
+      <description>MaekdownがプレビューできるvimプラグインPrevimの導入メモです。 readmeに動画がありますが、変更内容をリアルタイムに反映し</description>
+    </item>
+    
+  </channel>
+</rss>

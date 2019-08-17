@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>event on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/event/</link>
+    <description>Recent content in event on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 11 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ミキハウスプレママセミナーに行ってきた</title>
+      <link>https://blog.zzzmisa.com/mikihouse_seminar/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/mikihouse_seminar/</guid>
+      <description>6月にミキハウスの「プレママ・プレパパセミナー in グランフロント大阪」へ行ってきました。 ブログに載せてもOKとのことだったので、勉強したことを</description>
+    </item>
+    
+  </channel>
+</rss>

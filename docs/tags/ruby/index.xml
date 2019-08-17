@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ruby on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/ruby/</link>
+    <description>Recent content in ruby on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RuboCop で2回目以降にエラーが出る</title>
+      <link>https://blog.zzzmisa.com/rubocop-error/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/rubocop-error/</guid>
+      <description>RuboCop で、最初の実行では上手く行ったのに、2回目以降エラーになってしまうことがありました。 その時のエラーはこちら。 $ rubocop invalid byte sequence in UTF-8 /Users/&amp;</description>
+    </item>
+    
+  </channel>
+</rss>

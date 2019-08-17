@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heroku on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/heroku/</link>
+    <description>Recent content in heroku on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sat, 16 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HerokuにRailsアプリを公開する</title>
+      <link>https://blog.zzzmisa.com/heroku_with_rails/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/heroku_with_rails/</guid>
+      <description>HerokuにRailsアプリを公開する方法の備忘録です。 今回公開するのは、Rails 5で作成したアプリアプリです。 公式ドキュメントのGet</description>
+    </item>
+    
+    <item>
+      <title>HerokuのpostgresqlページがInternal Error</title>
+      <link>https://blog.zzzmisa.com/heroku_postgresql_internal_error/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/heroku_postgresql_internal_error/</guid>
+      <description>起こった問題 Herokuのpostgresqlページがエラーで表示できませんでした。 エラー文は以下です。 Internal Error Couldn&amp;rsquo;t fetch detail about **** Sory about that! Our engineers have been notified. Perhaps return to</description>
+    </item>
+    
+  </channel>
+</rss>

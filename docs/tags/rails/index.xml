@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rails on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/rails/</link>
+    <description>Recent content in rails on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/rails/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bootstrap4をRails5に導入</title>
+      <link>https://blog.zzzmisa.com/bootstrap4-with-rails5/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/bootstrap4-with-rails5/</guid>
+      <description>Bootstrap4をRuby on Rails5に導入します。 基本的な作業はBootstrapのこちらのドキュメントを参考に作業していきます。 今</description>
+    </item>
+    
+    <item>
+      <title>HerokuにRailsアプリを公開する</title>
+      <link>https://blog.zzzmisa.com/heroku_with_rails/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/heroku_with_rails/</guid>
+      <description>HerokuにRailsアプリを公開する方法の備忘録です。 今回公開するのは、Rails 5で作成したアプリアプリです。 公式ドキュメントのGet</description>
+    </item>
+    
+  </channel>
+</rss>
