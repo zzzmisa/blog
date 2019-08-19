@@ -3,21 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.zzzmisa.com/tags/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.zzzmisa.com/tags/info/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/tags/info/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.zzzmisa.com/tags/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.zzzmisa.com/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -28,7 +25,6 @@
   <url>
     <loc>https://blog.zzzmisa.com/tags/english/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -37,20 +33,18 @@
   </url>
   
   <url>
+    <loc>https://blog.zzzmisa.com/tags/bulma/</loc>
+    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.zzzmisa.com/zoom/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/tags/bulma/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zzzmisa.com/tags/frontend/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -61,13 +55,11 @@
   <url>
     <loc>https://blog.zzzmisa.com/tags/advent-calendar/</loc>
     <lastmod>2019-02-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.zzzmisa.com/tags/vuejs/</loc>
     <lastmod>2019-02-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -88,7 +80,6 @@
   <url>
     <loc>https://blog.zzzmisa.com/tags/raspberrypi/</loc>
     <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -99,7 +90,6 @@
   <url>
     <loc>https://blog.zzzmisa.com/tags/childcare/</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -110,7 +100,6 @@
   <url>
     <loc>https://blog.zzzmisa.com/tags/event/</loc>
     <lastmod>2018-07-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -124,14 +113,18 @@
   </url>
   
   <url>
+    <loc>https://blog.zzzmisa.com/tags/hugo/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.zzzmisa.com/customize_hugo_theme3/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/tags/hugo/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.zzzmisa.com/tags/bootstrap/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -140,15 +133,13 @@
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/tags/bootstrap/</loc>
+    <loc>https://blog.zzzmisa.com/tags/rails/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/tags/rails/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.zzzmisa.com/tags/anaconda/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -157,25 +148,12 @@
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/tags/anaconda/</loc>
-    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zzzmisa.com/tags/jupyter/</loc>
     <lastmod>2017-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.zzzmisa.com/tags/python/</loc>
-    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zzzmisa.com/rubocop-error/</loc>
     <lastmod>2017-11-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -187,25 +165,26 @@
   <url>
     <loc>https://blog.zzzmisa.com/tags/macos/</loc>
     <lastmod>2017-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.zzzmisa.com/tags/rubocop/</loc>
     <lastmod>2017-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zzzmisa.com/rubocop-error/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.zzzmisa.com/tags/ruby/</loc>
     <lastmod>2017-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.zzzmisa.com/tags/vim/</loc>
     <lastmod>2017-11-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -219,6 +198,11 @@
   </url>
   
   <url>
+    <loc>https://blog.zzzmisa.com/tags/vagrant/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.zzzmisa.com/vagrant-multi-machine/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
   </url>
@@ -229,15 +213,8 @@
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/tags/vagrant/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zzzmisa.com/tags/shopping/</loc>
     <lastmod>2017-09-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -251,14 +228,13 @@
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/heroku_with_rails/</loc>
+    <loc>https://blog.zzzmisa.com/tags/heroku/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/tags/heroku/</loc>
+    <loc>https://blog.zzzmisa.com/heroku_with_rails/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -284,7 +260,6 @@
   <url>
     <loc>https://blog.zzzmisa.com/tags/camera/</loc>
     <lastmod>2017-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -300,7 +275,6 @@
   <url>
     <loc>https://blog.zzzmisa.com/tags/diary/</loc>
     <lastmod>2017-01-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -316,7 +290,6 @@
   <url>
     <loc>https://blog.zzzmisa.com/tags/career/</loc>
     <lastmod>2017-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -325,13 +298,13 @@
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/customize_hugo_theme/</loc>
-    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <loc>https://blog.zzzmisa.com/hello_world/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.zzzmisa.com/hello_world/</loc>
-    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+    <loc>https://blog.zzzmisa.com/customize_hugo_theme/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -138,21 +138,21 @@
     </item>
     
     <item>
-      <title>RuboCop で2回目以降にエラーが出る</title>
-      <link>https://blog.zzzmisa.com/rubocop-error/</link>
-      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.zzzmisa.com/rubocop-error/</guid>
-      <description>RuboCop で、最初の実行では上手く行ったのに、2回目以降エラーになってしまうことがありました。 その時のエラーはこちら。 $ rubocop invalid byte sequence in UTF-8 /Users/&amp;</description>
-    </item>
-    
-    <item>
       <title>brew linkappsのdeprecated対応</title>
       <link>https://blog.zzzmisa.com/brew-linkapps-deprecated/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://blog.zzzmisa.com/brew-linkapps-deprecated/</guid>
       <description>brew linkapps は、/Applications フォルダにシンボリックリンクを貼るコマンドですが、いつの間にか deprecated の Warning がでるようになりました。 $ brew linkapps macvim Warning: `brew linkapps`</description>
+    </item>
+    
+    <item>
+      <title>RuboCop で2回目以降にエラーが出る</title>
+      <link>https://blog.zzzmisa.com/rubocop-error/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/rubocop-error/</guid>
+      <description>RuboCop で、最初の実行では上手く行ったのに、2回目以降エラーになってしまうことがありました。 その時のエラーはこちら。 $ rubocop invalid byte sequence in UTF-8 /Users/&amp;</description>
     </item>
     
     <item>
@@ -300,21 +300,21 @@
     </item>
     
     <item>
-      <title>HUGO のテーマ Robust のカスタマイズ</title>
-      <link>https://blog.zzzmisa.com/customize_hugo_theme/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.zzzmisa.com/customize_hugo_theme/</guid>
-      <description>※この記事は、2016年12月10日時点でダウンロードした hugo_theme_robust を使用しています。 カスタマイズ内容も古いです。最新のカスタマイズ内容はGithu</description>
-    </item>
-    
-    <item>
       <title>Hello world!!</title>
       <link>https://blog.zzzmisa.com/hello_world/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.zzzmisa.com/hello_world/</guid>
       <description>やっほー！！</description>
+    </item>
+    
+    <item>
+      <title>HUGO のテーマ Robust のカスタマイズ</title>
+      <link>https://blog.zzzmisa.com/customize_hugo_theme/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/customize_hugo_theme/</guid>
+      <description>※この記事は、2016年12月10日時点でダウンロードした hugo_theme_robust を使用しています。 カスタマイズ内容も古いです。最新のカスタマイズ内容はGithu</description>
     </item>
     
     <item>
