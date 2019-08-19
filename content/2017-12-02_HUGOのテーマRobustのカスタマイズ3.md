@@ -1,6 +1,6 @@
 +++
 date = "2017-12-02"
-lastmod = "2017-12-02"
+lastmod = "2019-08-19"
 title = "HUGO のテーマ Robust のカスタマイズver3"
 slug = "customize_hugo_theme3"
 tags = [
@@ -11,12 +11,8 @@ toc = true
 draft = false
 +++
 
-※この記事では、~~2017年12月2日~~2019年1月12日時点でダウンロードした hugo_theme_robustを使用しています。
-
-【2019年1月12日追記】  
-2019年1月12日時点のhugo_theme_robustにアップデートしました。  
-（HUGOの対応バージョンがv0.20.2からv0.42.2に上がっているので、HUGOのバージョンアップも必要）。  
-Youtubeショートコードの追加を追記しました。
+※この記事は、2019年1月12日時点でダウンロードした hugo_theme_robust を使用しています。
+カスタマイズ内容も古いです。最新のカスタマイズ内容は[Github](https://github.com/zzzmisa/blog/)を見てください。
 
 ---
 
@@ -24,6 +20,11 @@ Youtubeショートコードの追加を追記しました。
 で作っていて、 [Robust](https://github.com/dim0627/hugo_theme_robust/)
  というテーマをちょっぴりカスタマイズして使用してます。  
 この記事はカスタマイズ内容のメモです。
+
+【2019年1月12日追記】  
+2019年1月12日時点のhugo_theme_robustにアップデートしました。  
+（HUGOの対応バージョンがv0.20.2からv0.42.2に上がっているので、HUGOのバージョンアップも必要）。  
+Youtubeショートコードの追加を追記しました。
 
 ## config.toml
 `config.toml`でbaseurl、title、googleAnalyticsを設定します。他はデフォルトのままです。

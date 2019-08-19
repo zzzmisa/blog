@@ -1,6 +1,6 @@
 +++
 date = "2017-09-03"
-lastmod = "2017-12-02"
+lastmod = "2019-08-19"
 title = "HUGO のテーマ Robust のカスタマイズver2"
 slug = "customize_hugo_theme2"
 tags = [
@@ -11,8 +11,8 @@ toc = false
 draft = false
 +++
 
-※この記事では、2017年9月3日時点でダウンロードした hugo_theme_robust を使用しています。
-一番新しいバージョンのカスタマイズ記事は[こちら](/customize_hugo_theme3/)。
+※この記事は、2017年9月3日時点でダウンロードした hugo_theme_robust を使用しています。
+カスタマイズ内容も古いです。最新のカスタマイズ内容は[Github](https://github.com/zzzmisa/blog/)を見てください。
 
 ---
 
