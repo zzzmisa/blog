@@ -6,10 +6,19 @@
     <description>Recent content in Tags on zzzmisa&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.zzzmisa.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>git</title>
+      <link>https://blog.zzzmisa.com/tags/git/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/tags/git/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>info</title>
