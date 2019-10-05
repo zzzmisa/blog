@@ -6,10 +6,19 @@
     <description>Recent content in vuejs on zzzmisa&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.zzzmisa.com/tags/vuejs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vue CLI 3でプラグインをアンインストール</title>
+      <link>https://blog.zzzmisa.com/uninstall-vue-cli-plugin/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/uninstall-vue-cli-plugin/</guid>
+      <description>Vue CLI 3でプラグインをインストールする場合、vue addコマンドで簡単に追加できます。 一方、プラグインをアンインストールするコマンドは用意され</description>
+    </item>
     
     <item>
       <title>個人開発 ❤ Vue.jsとBulmaでアイキャッチメーカーをリニューアル</title>
