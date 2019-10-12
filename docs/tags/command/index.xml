@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>command on zzzmisa&#39;s blog</title>
+    <link>https://blog.zzzmisa.com/tags/command/</link>
+    <description>Recent content in command on zzzmisa&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.zzzmisa.com/tags/command/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ポート番号や実行コマンド名からプロセスをkill</title>
+      <link>https://blog.zzzmisa.com/kill-process/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/kill-process/</guid>
+      <description>プロセスの検索 ポート番号からプロセスを探す 1313ポートを使っているプロセスを検索します。 $ lsof -i :1313 COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME hugo 1475 misa 212u IPv4 0xc4ddf189244bd57 0t0 TCP localhost:bmc_patroldb (LISTEN)``` 実行</description>
+    </item>
+    
+  </channel>
+</rss>

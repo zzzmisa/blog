@@ -6,10 +6,19 @@
     <description>Recent content in Tags on zzzmisa&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.zzzmisa.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>command</title>
+      <link>https://blog.zzzmisa.com/tags/command/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/tags/command/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>vuejs</title>
