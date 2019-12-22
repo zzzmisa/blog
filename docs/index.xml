@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>zzzmisa&#39;s blog</title>
@@ -6,10 +6,19 @@
     <description>Recent content on zzzmisa&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.zzzmisa.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>オープンデータカレーを使ったゲームアプリを作った</title>
+      <link>https://blog.zzzmisa.com/curryjack/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.zzzmisa.com/curryjack/</guid>
+      <description>この記事は クソアプリ 2 Advent Calendar 2019 の23日目の記事です🎄✨ オープンデータのカレー画像を使ったゲームアプリ カレージャック を作りました！ デモ: https://curryjack.zzzmisa.com/ ソース</description>
+    </item>
     
     <item>
       <title>ポート番号や実行コマンド名からプロセスをkill</title>
